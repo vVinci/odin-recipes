@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
